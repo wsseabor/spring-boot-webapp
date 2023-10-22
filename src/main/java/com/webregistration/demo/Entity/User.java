@@ -1,11 +1,10 @@
-package com.webregistration.demo.User;
+package com.webregistration.demo.Entity;
 
 //Import dependencies for Spring Data JPA
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
 //Declare entity, table for MySQL generation
